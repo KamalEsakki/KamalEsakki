@@ -71,7 +71,7 @@ I'm also exploring **Model Context Protocol (MCP)** and **Agentic AI** to build 
 
 ### Backend Developer — Zeeyes AI Labs
 
-<badge>Currently Working</badge>
+<img src="https://img.shields.io/badge/STATUS-CURRENTLY%20WORKING-065f46?style=for-the-badge&logo=github&logoColor=34d399" alt="Currently Working" />
 
 Working on backend development, API engineering, authentication, database operations, and third-party application integrations.
 
@@ -301,36 +301,14 @@ A data analytics project focused on exploring customer purchasing behavior from 
 
 <div align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0"
-    alt="GitHub Statistics"
-    width="49%"
-  />
+<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-stats.svg" alt="GitHub Statistics" />
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0"
-    alt="Top Programming Languages"
-    width="49%"
-  />
+<br/><br/>
 
-  <br/><br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&hide_border=true&background=020617&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=34d399&dates=94a3b8"
-    alt="GitHub Contribution Streak"
-    width="80%"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KamalEsakki&bg_color=020617&color=34d399&line=10b981&point=ecfdf5&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
+<img width="49%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/top-languages.svg" alt="Most Used Programming Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-activity.svg" alt="GitHub Contribution Activity" />
 
 </div>
----
 
 ## 🐍 GitHub Contribution Snake
 
