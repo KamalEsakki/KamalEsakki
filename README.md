@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marikannan234">
+  <a href="https://github.com/KamalEsakki">
     <img src="https://img.shields.io/badge/GitHub-marikannan234-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
