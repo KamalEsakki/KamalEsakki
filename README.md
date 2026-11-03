@@ -1,115 +1,129 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061a14,50:064e3b,100:10b981&height=220&section=header&text=Kamal%20Esakki&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Integration%20%7C%20MCP&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:052e16,50:065f46,100:10b981&text=Kamal%20Esakki&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Integration%20%7C%20MCP&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Scalable+REST+APIs;CRM+Integration+%7C+Automation;Exploring+Agentic+AI+%26+MCP" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=650&lines=Final+Year+B.E.+Computer+Science+Student;Backend+Developer;Building+APIs+and+CRM+Integrations;Exploring+MCP+and+Agentic+AI" />
 
 <br/>
 
 <a href="https://github.com/KamalEsakki">
-<img src="https://komarev.com/ghpvc/?username=KamalEsakki&label=PROFILE+VIEWS&color=10b981&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=KamalEsakki&label=PROFILE+VIEWS&color=065f46&style=for-the-badge" />
 </a>
 <a href="https://github.com/KamalEsakki?tab=followers">
-<img src="https://img.shields.io/github/followers/KamalEsakki?label=FOLLOWERS&style=for-the-badge&color=064e3b" />
+<img src="https://img.shields.io/github/followers/KamalEsakki?label=FOLLOWERS&style=for-the-badge&color=10b981" />
 </a>
 
 </div>
 
 ---
 
-## 🟢 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: T. Kamal Esakki
+name: Kamal Esakki
 education: Final Year B.E. Computer Science and Engineering
 institute: Unnamalai Institute of Technology
-role: Backend Developer
+role: Backend Developer Intern
 interests:
   - Backend Development
   - REST API Development
   - CRM Integrations
   - Model Context Protocol (MCP)
-  - Workflow Automation
-currently_exploring:
   - Agentic AI
-  - NestJS
-  - MCP-based Applications
+currently_learning:
+  - Advanced Backend Architecture
+  - AI-powered Integrations
   - Data Analytics
 ```
 
-- 💻 Interested in building backend applications and scalable APIs.
-- 🔗 Working with CRM integrations and third-party APIs.
-- ⚙️ Exploring MCP and AI-powered automation.
-- 📊 Interested in connecting backend systems with data analytics.
-- 🚀 Focused on learning, building, and improving every day.
+- Building backend applications and REST APIs using Node.js and NestJS.
+- Working with CRM integrations, OAuth authentication, and data migration.
+- Exploring MCP servers and AI-powered automation.
+- Interested in scalable backend systems and practical software development.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### Backend & Programming
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,nestjs,express,java" />
-</p>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,tailwind" />
 
 ### Database & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode" />
-</p>
+### Other Technologies
 
-### API, Integration & Analytics
+<img src="https://img.shields.io/badge/REST_APIs-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OAuth_2.0-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeORM-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_BI-065f46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UiPath-065f46?style=for-the-badge" />
 
-<p>
-<img src="https://img.shields.io/badge/REST%20API-064e3b?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth%202.0-065f46?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-047857?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Zoho CRM to HubSpot Migration & MCP Integration
+<table>
+<tr>
+<td width="50%">
 
-- Built a backend integration to migrate CRM data between Zoho and HubSpot.
-- Worked with OAuth authentication and REST APIs.
-- Explored MCP-based CRM tool integration.
+### 📈 Stock Sentinel
 
-<a href="https://github.com/KamalEsakki/zoho-hubspot-integration">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Stock monitoring application with a backend API and dashboard.
 
-### 2. Stock Sentinel
+**Tech:** FastAPI, PostgreSQL, SQLAlchemy, Next.js, Docker
 
-- Stock monitoring application with a backend API.
-- Built using FastAPI and PostgreSQL.
-- Integrated authentication and stock data visualization.
+<a href="https://github.com/marikannan234/stock_sentinal">View Repository →</a>
 
-<a href="https://github.com/marikannan234/stock_sentinal">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</td>
+<td width="50%">
 
-### 3. E-commerce Customer Behavior Analysis
+### 🔄 Zoho CRM to HubSpot Migration
 
-- Analyzed e-commerce customer behavior.
-- Applied customer segmentation and association analysis.
-- Used Python, Pandas, and Streamlit.
+CRM data migration and integration using NestJS, APIs, and MCP.
 
-<a href="https://github.com/KamalEsakki/Ecommerce-Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech:** NestJS, TypeScript, Zoho CRM, HubSpot, PostgreSQL, MCP
+
+<a href="https://github.com/KamalEsakki/zoho-hubspot-integration">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-commerce Customer Behavior Analysis
+
+Customer behavior analysis using data processing and machine learning techniques.
+
+**Tech:** Python, Pandas, NumPy, Streamlit, Clustering
+
+<a href="https://github.com/KamalEsakki/Ecommerce-Customer-Behavior-Analysis">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 💡 Areas of Interest
+
+- Backend Engineering
+- API Development
+- CRM Automation
+- MCP Integrations
+- Data Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,37 +131,23 @@ currently_exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&theme=merko&hide_border=true&bg_color=061a14&title_color=10b981&icon_color=10b981&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&theme=dark&bg_color=052e16&title_color=34d399&icon_color=10b981&text_color=e5e7eb&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&theme=merko&hide_border=true&bg_color=061a14&title_color=10b981&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&theme=dark&bg_color=052e16&title_color=34d399&text_color=e5e7eb&hide_border=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KamalEsakki&theme=merko&hide_border=true&background=061a14&ring=10b981&fire=10b981&currStreakLabel=10b981" width="75%" />
+<img width="75%" src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&background=052e16&ring=10b981&fire=34d399&currStreakLabel=34d399&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- Coordinator – INNOFEST '25.
-- Developed an event registration website.
-- Data Analytics Master Program.
-- Google Cloud Cybersecurity.
-- IBM Experience Based Project Learning.
-- UiPath RPA Certification.
-- Cambridge University Communication Skills.
 
 ---
 
@@ -158,19 +158,17 @@ currently_exploring:
 <a href="https://www.linkedin.com/in/kamalesakki">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:kamalesakki11@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/KamalEsakki">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💚 Thanks for Visiting My Profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:065f46,100:052e16&height=110&section=footer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:061a14&height=120&section=footer" width="100%" />
+**"Building, Learning, and Improving One Commit at a Time."**
 
 </div>
