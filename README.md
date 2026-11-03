@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:052e16,65:065f46,100:10b981&height=220&section=header&text=T.%20Kamal%20Esakki&fontSize=50&fontColor=ecfdf5&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20MCP%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="Kamal Esakki Profile Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:052e16,65:065f46,100:10b981&height=220&section=header&text=T.%20Kamal%20Esakki&fontSize=50&fontColor=ecfdf5&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20MCP%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="Profile Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Final+Year+B.E.+Computer+Science+Student;Backend+Developer+%7C+API+Integration;Node.js+%7C+NestJS+%7C+PostgreSQL;CRM+Integration+%7C+OAuth+%7C+MCP;Exploring+Agentic+AI+and+Automation" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Backend+Developer+at+Zeeyes+AI+Labs;B.E.+Computer+Science+%7C+2026+Passed+Out;Node.js+%7C+NestJS+%7C+PostgreSQL;CRM+Integration+%7C+OAuth+%7C+MCP;Exploring+Agentic+AI+and+Automation" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -34,21 +34,17 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **T. Kamal Esakki**, a final-year **B.E. Computer Science and Engineering** student at **Unnamalai Institute of Technology**.
+Hello! I'm **T. Kamal Esakki**, a **B.E. Computer Science and Engineering graduate (2026)** and currently working as a **Backend Developer at Zeeyes AI Labs**.
 
-I am interested in Backend Development, API Engineering, CRM Integrations, Data Analytics, and AI-powered automation.
+I specialize in backend development, REST API engineering, database management, and third-party application integrations.
 
-I have practical experience working with backend technologies, building REST APIs, integrating third-party platforms, implementing authentication mechanisms, and managing database operations.
+My technical experience includes building backend services, implementing authentication mechanisms, integrating CRM platforms, managing database operations, and developing API-driven applications.
 
-My development experience includes Node.js, NestJS, Express.js, Python, PostgreSQL, MySQL, MongoDB, TypeORM, Docker, and API integration workflows.
+I work with technologies such as **Node.js, NestJS, TypeScript, Python, PostgreSQL, MySQL, MongoDB, TypeORM, and Docker**.
 
-I am also exploring **Model Context Protocol (MCP)** and **Agentic AI** to understand how AI applications can interact with external tools, APIs, and business systems.
+I'm also exploring **Model Context Protocol (MCP)** and **Agentic AI** to build applications that connect AI models with external tools, APIs, and business systems.
 
-### 🎯 Career Objective
-
-To develop reliable, scalable, and maintainable software applications by applying backend engineering principles, API development, database management, system integration, and emerging AI technologies.
-
-### 💡 Areas of Interest
+### 🎯 Professional Focus
 
 - Backend Development and Server-side Engineering
 - REST API Design and Development
@@ -73,28 +69,29 @@ To develop reliable, scalable, and maintainable software applications by applyin
 
 ## 💼 Professional Experience
 
-### 1. Backend Developer Intern — Zeeyes AI Labs
+### Backend Developer — Zeeyes AI Labs
 
-**Role:** Backend Development and API Integration
+<badge>Currently Working</badge>
 
-Working on backend development and integration-oriented tasks with a focus on APIs, authentication, databases, and business application connectivity.
+Working on backend development, API engineering, authentication, database operations, and third-party application integrations.
 
 **Responsibilities and Technical Exposure:**
 
 - Developing backend services using Node.js and NestJS.
 - Designing and implementing RESTful APIs for application communication.
-- Working with authentication mechanisms such as JWT and OAuth 2.0.
-- Implementing Google OAuth authentication and role-based access control (RBAC).
+- Implementing authentication mechanisms using JWT and OAuth 2.0.
+- Working with Google OAuth authentication and Role-Based Access Control (RBAC).
 - Integrating external platforms and business applications through APIs.
 - Working on Zoho CRM, HubSpot, and QuickBooks integrations.
+- Developing integration workflows for CRM data migration.
 - Exploring MCP-based integrations to expose application functionality as tools.
 - Working with PostgreSQL, TypeORM, SQL queries, and database operations.
-- Understanding API request validation, response handling, and error management.
+- Implementing request validation, response handling, and error management.
 - Using Docker and development tools for application setup and testing.
 
 **Technologies:** Node.js, NestJS, TypeScript, JavaScript, REST APIs, JWT, OAuth 2.0, Google OAuth, RBAC, PostgreSQL, TypeORM, Docker, MCP.
 
-### 2. Data Science Intern — Extazee Software Solution
+### Data Science Intern — Extazee Software Solution
 
 **Duration:** June 2025 – July 2025  
 **Location:** Trichy
@@ -103,11 +100,11 @@ Gained practical exposure to data science concepts, data processing, analysis, a
 
 **Responsibilities and Technical Exposure:**
 
-- Worked with Python for data processing and analysis.
-- Used Pandas and NumPy for data manipulation.
+- Used Python for data processing and analysis.
+- Worked with Pandas and NumPy for data manipulation.
 - Explored data cleaning and preprocessing techniques.
-- Worked with structured datasets to understand data patterns.
-- Learned analytical approaches for extracting useful information from datasets.
+- Analyzed structured datasets to understand data patterns.
+- Learned analytical approaches for extracting useful information.
 - Gained exposure to data visualization and reporting concepts.
 
 **Technologies:** Python, Pandas, NumPy, Data Analysis, Data Processing.
@@ -184,8 +181,7 @@ Gained practical exposure to data science concepts, data processing, analysis, a
 - Pandas
 - NumPy
 - Streamlit
-- Data Cleaning
-- Data Preprocessing
+- Data Cleaning and Preprocessing
 - Data Analysis
 - Customer Segmentation
 - Clustering
@@ -215,7 +211,7 @@ Gained practical exposure to data science concepts, data processing, analysis, a
 ### 1. Zoho CRM to HubSpot Migration and MCP Integration
 
 <a href="https://github.com/KamalEsakki/zoho-hubspot-integration">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Zoho HubSpot Project" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
 A backend integration project focused on migrating CRM data from Zoho CRM to HubSpot using APIs and building an integration foundation for MCP-based interactions.
@@ -239,7 +235,7 @@ A backend integration project focused on migrating CRM data from Zoho CRM to Hub
 ### 2. Stock Sentinel
 
 <a href="https://github.com/marikannan234/stock_sentinal">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Stock Sentinel Project" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
 A stock monitoring application built with a backend API and a web-based dashboard to present stock-related information.
@@ -262,7 +258,7 @@ A stock monitoring application built with a backend API and a web-based dashboar
 ### 3. E-commerce Customer Behavior Analysis
 
 <a href="https://github.com/KamalEsakki/Ecommerce-Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View E-commerce Analysis Project" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
 A data analytics project focused on exploring customer purchasing behavior from e-commerce transaction data.
@@ -289,7 +285,7 @@ A data analytics project focused on exploring customer purchasing behavior from 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 - Advanced Backend Development using NestJS.
 - MCP Architecture and Tool Integration.
@@ -325,7 +321,7 @@ A data analytics project focused on exploring customer purchasing behavior from 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" alt="Dark GitHub Contribution Snake Animation" />
+<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 <br/><br/>
 
