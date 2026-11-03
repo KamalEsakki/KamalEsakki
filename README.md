@@ -9,6 +9,12 @@
 
 <br/><br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/profile-dashboard.svg" alt="Kamal Esakki dark GitHub profile dashboard" />
+
+<br/><br/>
+
+<br/><br/>
+
 <a href="https://github.com/KamalEsakki">
 <img src="https://komarev.com/ghpvc/?username=KamalEsakki&style=for-the-badge&color=065f46&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
