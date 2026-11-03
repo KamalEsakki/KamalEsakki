@@ -62,8 +62,8 @@ I'm also exploring **Model Context Protocol (MCP)** and **Agentic AI** to build 
 | Qualification | Institution | Year | Performance |
 |---|---|---|---|
 | B.E. Computer Science and Engineering | Unnamalai Institute of Technology | 2022 – 2026 | CGPA: 7.77 |
-| Higher Secondary (HSC) | St. Xavier Higher Secondary School | 2022 | Science |
-| Secondary (SSLC) | St. Xavier Higher Secondary School | 2020 | — |
+| Higher Secondary (HSC) | St. Xavier Higher Secondary School | 2022 | 60% |
+| Secondary (SSLC) | St. Xavier Higher Secondary School | 2020 | 87% |
 
 ---
 
