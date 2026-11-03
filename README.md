@@ -1,13 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/profile-dashboard.svg" alt="T. Kamal Esakki — Complete Developer Profile Dashboard" />
+# T. Kamal Esakki
 
-<br/><br/>
+**Backend Developer · API Engineer · CRM Integrations · MCP**
 
-<a href="https://github.com/KamalEsakki">GitHub</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/kamalesakki">LinkedIn</a>
-&nbsp; • &nbsp;
+An animated, responsive, scrollable portfolio built with HTML, CSS and JavaScript.
+
+### <a href="https://kamalesakki.github.io/KamalEsakki/">OPEN MY PORTFOLIO ↗</a>
+
+<br/>
+
+<a href="https://github.com/KamalEsakki">GitHub</a> ·
+<a href="https://www.linkedin.com/in/kamalesakki">LinkedIn</a> ·
 <a href="mailto:kamalesakki11@gmail.com">Email</a>
 
 </div>
