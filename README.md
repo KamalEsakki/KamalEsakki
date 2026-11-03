@@ -301,20 +301,35 @@ A data analytics project focused on exploring customer purchasing behavior from 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0" alt="GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0"
+    alt="GitHub Statistics"
+    width="49%"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0" alt="Top Programming Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0"
+    alt="Top Programming Languages"
+    width="49%"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&hide_border=true&background=020617&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=34d399&dates=94a3b8" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&hide_border=true&background=020617&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=34d399&dates=94a3b8"
+    alt="GitHub Contribution Streak"
+    width="80%"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalEsakki&bg_color=020617&color=34d399&line=10b981&point=ecfdf5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KamalEsakki&bg_color=020617&color=34d399&line=10b981&point=ecfdf5&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
 
 </div>
-
 ---
 
 ## 🐍 GitHub Contribution Snake
