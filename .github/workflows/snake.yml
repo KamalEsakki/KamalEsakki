@@ -1,7 +1,7 @@
 
-name: Generate Contribution Snake
+name: Generate GitHub Contribution Snake
 
-'on':
+on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -9,22 +9,32 @@ name: Generate Contribution Snake
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
+    name: Generate Contribution Animations
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: KamalEsakki
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#10b981
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake-dimmed.svg?palette=github-dark-dimmed
+            dist/github-contribution-grid-snake-emerald.svg?color_snake=#10b981&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Deploy to Output Branch
+      - name: Deploy Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
