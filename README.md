@@ -302,13 +302,13 @@ A data analytics project focused on exploring customer purchasing behavior from 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0"
+    src="https://github-stats-extended.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0"
     alt="GitHub Statistics"
     width="49%"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0"
     alt="Top Programming Languages"
     width="49%"
   />
