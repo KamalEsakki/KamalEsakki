@@ -142,4 +142,78 @@ else:
     heat += f'<text x="26" y="72" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="13">Contribution calendar data is temporarily unavailable.</text>'
     save("github-activity.svg", heat)
 
+
+# A unified dark dashboard matching the requested GitHub Metrics-style layout.
+dashboard = svg_start(1100, 760, "KAMAL ESAKKI  /  DEVELOPER PROFILE")
+dashboard += f'<text x="28" y="68" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">Backend Developer</text>'
+dashboard += f'<text x="28" y="94" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="14">Node.js  •  NestJS  •  APIs  •  CRM Integrations  •  MCP</text>'
+dashboard += f'<text x="28" y="124" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="12">B.E. Computer Science and Engineering  |  2026</text>'
+dashboard += f'<text x="28" y="158" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">PROFILE OVERVIEW</text>'
+dashboard += f'<rect x="28" y="174" width="1044" height="104" rx="10" fill="{PANEL}" stroke="{GRID}"/>'
+overview = [("PUBLIC REPOSITORIES", str(public_repos)), ("TOTAL STARS", str(stars)), ("FOLLOWERS", str(followers)), ("FORKS", str(forks)), ("YEARLY CONTRIBUTIONS", str(contributions))]
+for i, (label, value) in enumerate(overview):
+    x = 52 + i * 207
+    dashboard += f'<text x="{x}" y="213" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="10">{label}</text>'
+    dashboard += f'<text x="{x}" y="252" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">{value}</text>'
+
+# Left: technical stack and current focus.
+dashboard += f'<rect x="28" y="302" width="500" height="190" rx="10" fill="{PANEL}" stroke="{GRID}"/>'
+dashboard += f'<text x="50" y="334" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">TECHNICAL TOOLKIT</text>'
+skill_groups = [
+    ("BACKEND", "Node.js  •  NestJS  •  Express  •  FastAPI  •  REST APIs"),
+    ("LANGUAGES", "Python  •  TypeScript  •  JavaScript  •  SQL  •  Java"),
+    ("DATABASES", "PostgreSQL  •  MySQL  •  MongoDB  •  TypeORM"),
+    ("INTEGRATION", "OAuth 2.0  •  JWT  •  Zoho CRM  •  HubSpot  •  MCP"),
+    ("TOOLS", "Docker  •  Git  •  Postman  •  n8n  •  Power BI")
+]
+for i, (label, value) in enumerate(skill_groups):
+    y = 365 + i * 25
+    dashboard += f'<text x="50" y="{y}" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">{label}</text>'
+    dashboard += f'<text x="150" y="{y}" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="11">{html.escape(value)}</text>'
+
+# Right: career and project highlights.
+dashboard += f'<rect x="548" y="302" width="524" height="190" rx="10" fill="{PANEL}" stroke="{GRID}"/>'
+dashboard += f'<text x="570" y="334" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">CURRENT ROLE &amp; PROJECTS</text>'
+dashboard += f'<text x="570" y="365" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Backend Developer  /  Zeeyes AI Labs</text>'
+dashboard += f'<text x="570" y="388" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="11">Backend services, API engineering, OAuth and CRM integrations</text>'
+project_lines = [
+    "Zoho CRM → HubSpot Migration + MCP Integration",
+    "Stock Sentinel  /  FastAPI + PostgreSQL + Next.js",
+    "E-commerce Customer Behavior Analysis  /  Python + Streamlit"
+]
+for i, line in enumerate(project_lines):
+    dashboard += f'<circle cx="577" cy="{421+i*22}" r="3" fill="{GREEN}"/>'
+    dashboard += f'<text x="590" y="{425+i*22}" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="11">{html.escape(line)}</text>'
+
+# Contribution calendar panel.
+dashboard += f'<rect x="28" y="516" width="660" height="212" rx="10" fill="{PANEL}" stroke="{GRID}"/>'
+dashboard += f'<text x="50" y="548" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">CONTRIBUTION ACTIVITY  /  LAST 12 MONTHS</text>'
+if calendar:
+    days = [day for week in calendar.get("weeks", []) for day in week.get("contributionDays", [])]
+    colors = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+    for index, day in enumerate(days):
+        col, row = divmod(index, 7)
+        count = day.get("contributionCount", 0)
+        level = 0 if count == 0 else 1 if count < 3 else 2 if count < 6 else 3 if count < 10 else 4
+        x, y = 50 + col * 11, 572 + row * 18
+        date_label = html.escape(day.get("date", ""))
+        dashboard += f'<rect x="{x}" y="{y}" width="8" height="13" rx="2" fill="{colors[level]}"><title>{date_label}: {count} contributions</title></rect>'
+    dashboard += f'<text x="50" y="713" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="10">{contributions} contributions recorded</text>'
+else:
+    dashboard += f'<text x="50" y="590" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="12">Contribution calendar data unavailable from API</text>'
+
+# Language distribution panel.
+dashboard += f'<rect x="708" y="516" width="364" height="212" rx="10" fill="{PANEL}" stroke="{GRID}"/>'
+dashboard += f'<text x="730" y="548" fill="{GREEN}" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">LANGUAGE ACTIVITY</text>'
+y = 581
+for language, amount in top[:5]:
+    pct = amount / total_bytes * 100
+    dashboard += f'<text x="730" y="{y}" fill="{TEXT}" font-family="Segoe UI,Arial,sans-serif" font-size="11">{html.escape(language)}</text>'
+    dashboard += f'<text x="1048" y="{y}" text-anchor="end" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="10">{pct:.1f}%</text>'
+    dashboard += f'<rect x="730" y="{y+8}" width="318" height="6" rx="3" fill="{GRID}"/>'
+    dashboard += f'<rect x="730" y="{y+8}" width="{318*pct/100:.2f}" height="6" rx="3" fill="{GREEN}"/>'
+    y += 27
+dashboard += f'<text x="28" y="748" fill="{MUTED}" font-family="Segoe UI,Arial,sans-serif" font-size="10">Generated automatically with GitHub Actions  •  github.com/KamalEsakki</text>'
+save("profile-dashboard.svg", dashboard)
+
 print("Generated profile SVG cards:", ", ".join(p.name for p in OUT.glob("*.svg")))
