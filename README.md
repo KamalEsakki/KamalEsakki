@@ -1,48 +1,52 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:052e16,70:065f46,100:10b981&height=230&section=header&text=T.%20Kamal%20Esakki&fontSize=52&fontColor=ecfdf5&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20API%20Developer%20%7C%20AI%20%26%20MCP%20Integration&descSize=16&descAlignY=57&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=34D399&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+API+Integration;Building+Scalable+Backend+Applications;Working+with+NestJS%2C+Node.js+%26+PostgreSQL;Exploring+MCP+%26+Agentic+AI;Turning+Ideas+into+Practical+Solutions" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:052e16,65:065f46,100:10b981&height=220&section=header&text=T.%20Kamal%20Esakki&fontSize=50&fontColor=ecfdf5&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Engineer%20%7C%20MCP%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="Kamal Esakki Profile Header" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=34D399&center=true&vCenter=true&width=800&lines=Final+Year+B.E.+Computer+Science+Student;Backend+Developer+%7C+API+Integration;Node.js+%7C+NestJS+%7C+PostgreSQL;CRM+Integration+%7C+OAuth+%7C+MCP;Exploring+Agentic+AI+and+Automation" alt="Typing Animation" />
+
+<br/><br/>
+
 <a href="https://github.com/KamalEsakki">
-<img src="https://komarev.com/ghpvc/?username=KamalEsakki&style=for-the-badge&color=065f46&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=KamalEsakki&style=for-the-badge&color=065f46&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 <a href="https://github.com/KamalEsakki?tab=followers">
-<img src="https://img.shields.io/github/followers/KamalEsakki?style=for-the-badge&color=059669&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/KamalEsakki?style=for-the-badge&color=065f46&label=FOLLOWERS" alt="GitHub Followers" />
 </a>
 <a href="https://github.com/KamalEsakki?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-064e3b?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-Explore-065f46?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/kamalesakki">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-065f46?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:kamalesakki11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-065f46?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
 ---
 
-## 🟢 About Me
+## 👨‍💻 About Me
 
-I'm **T. Kamal Esakki**, a final-year **B.E. Computer Science and Engineering** student at Unnamalai Institute of Technology, with a strong interest in Backend Development, API Engineering, CRM Integrations, and AI-powered automation.
+Hello! I'm **T. Kamal Esakki**, a final-year **B.E. Computer Science and Engineering** student at **Unnamalai Institute of Technology**.
 
-I have practical experience developing backend applications, designing REST APIs, implementing authentication and authorization, integrating third-party platforms, and working with relational databases.
+I am interested in Backend Development, API Engineering, CRM Integrations, Data Analytics, and AI-powered automation.
+
+I have practical experience working with backend technologies, building REST APIs, integrating third-party platforms, implementing authentication mechanisms, and managing database operations.
 
 My development experience includes Node.js, NestJS, Express.js, Python, PostgreSQL, MySQL, MongoDB, TypeORM, Docker, and API integration workflows.
 
-I'm also exploring the **Model Context Protocol (MCP)** and Agentic AI to build applications where AI models can interact with external tools and business systems.
+I am also exploring **Model Context Protocol (MCP)** and **Agentic AI** to understand how AI applications can interact with external tools, APIs, and business systems.
 
 ### 🎯 Career Objective
 
-To build reliable, scalable, and maintainable software solutions by applying backend engineering principles, API development, database management, system integration, and emerging AI technologies.
+To develop reliable, scalable, and maintainable software applications by applying backend engineering principles, API development, database management, system integration, and emerging AI technologies.
 
 ### 💡 Areas of Interest
 
@@ -62,8 +66,8 @@ To build reliable, scalable, and maintainable software solutions by applying bac
 | Qualification | Institution | Year | Performance |
 |---|---|---|---|
 | B.E. Computer Science and Engineering | Unnamalai Institute of Technology | 2022 – 2026 | CGPA: 7.77 |
-| Higher Secondary Certificate (HSC) | St. Xavier Higher Secondary School | 2022 | 60% |
-| Secondary School Leaving Certificate (SSLC) | St. Xavier Higher Secondary School | 2020 | 87% |
+| Higher Secondary (HSC) | St. Xavier Higher Secondary School | 2022 | Science |
+| Secondary (SSLC) | St. Xavier Higher Secondary School | 2020 | — |
 
 ---
 
@@ -71,7 +75,7 @@ To build reliable, scalable, and maintainable software solutions by applying bac
 
 ### 1. Backend Developer Intern — Zeeyes AI Labs
 
-<sub>Present</sub>
+**Role:** Backend Development and API Integration
 
 Working on backend development and integration-oriented tasks with a focus on APIs, authentication, databases, and business application connectivity.
 
@@ -83,7 +87,7 @@ Working on backend development and integration-oriented tasks with a focus on AP
 - Implementing Google OAuth authentication and role-based access control (RBAC).
 - Integrating external platforms and business applications through APIs.
 - Working on Zoho CRM, HubSpot, and QuickBooks integrations.
-- Exploring MCP-based integrations to connect AI applications with external tools.
+- Exploring MCP-based integrations to expose application functionality as tools.
 - Working with PostgreSQL, TypeORM, SQL queries, and database operations.
 - Understanding API request validation, response handling, and error management.
 - Using Docker and development tools for application setup and testing.
@@ -92,7 +96,8 @@ Working on backend development and integration-oriented tasks with a focus on AP
 
 ### 2. Data Science Intern — Extazee Software Solution
 
-<sub>June 2025 – July 2025 | Trichy</sub>
+**Duration:** June 2025 – July 2025  
+**Location:** Trichy
 
 Gained practical exposure to data science concepts, data processing, analysis, and visualization.
 
@@ -111,96 +116,97 @@ Gained practical exposure to data science concepts, data processing, analysis, a
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+<div align="center">
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-### DevOps and Development Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode" />
+![Python](https://img.shields.io/badge/Python-052e16?style=for-the-badge&logo=python&logoColor=34d399)
+![JavaScript](https://img.shields.io/badge/JavaScript-052e16?style=for-the-badge&logo=javascript&logoColor=34d399)
+![TypeScript](https://img.shields.io/badge/TypeScript-052e16?style=for-the-badge&logo=typescript&logoColor=34d399)
+![SQL](https://img.shields.io/badge/SQL-052e16?style=for-the-badge&logo=postgresql&logoColor=34d399)
+![Java](https://img.shields.io/badge/Java_Beginner-052e16?style=for-the-badge&logo=openjdk&logoColor=34d399)
 
 </div>
 
-### Backend and API Engineering
+### Frontend Development
 
-- Node.js and NestJS
-- Express.js
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-052e16?style=for-the-badge&logo=html5&logoColor=34d399)
+![CSS3](https://img.shields.io/badge/CSS3-052e16?style=for-the-badge&logo=css3&logoColor=34d399)
+![React](https://img.shields.io/badge/React-052e16?style=for-the-badge&logo=react&logoColor=34d399)
+![Next.js](https://img.shields.io/badge/Next.js-052e16?style=for-the-badge&logo=next.js&logoColor=34d399)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-052e16?style=for-the-badge&logo=tailwindcss&logoColor=34d399)
+
+</div>
+
+### Backend Development
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-052e16?style=for-the-badge&logo=node.js&logoColor=34d399)
+![NestJS](https://img.shields.io/badge/NestJS-052e16?style=for-the-badge&logo=nestjs&logoColor=34d399)
+![Express.js](https://img.shields.io/badge/Express.js-052e16?style=for-the-badge&logo=express&logoColor=34d399)
+![FastAPI](https://img.shields.io/badge/FastAPI-052e16?style=for-the-badge&logo=fastapi&logoColor=34d399)
+
+</div>
+
+### Database Technologies
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-052e16?style=for-the-badge&logo=postgresql&logoColor=34d399)
+![MySQL](https://img.shields.io/badge/MySQL-052e16?style=for-the-badge&logo=mysql&logoColor=34d399)
+![MongoDB](https://img.shields.io/badge/MongoDB-052e16?style=for-the-badge&logo=mongodb&logoColor=34d399)
+
+</div>
+
+### API Development and Integration
+
 - REST API Development
 - CRUD Operations
-- API Integration
-- Request and Response Handling
+- API Request and Response Handling
 - API Validation and Error Handling
+- Third-party API Integration
 - JWT Authentication
-- OAuth 2.0 and Google OAuth
+- OAuth 2.0
+- Google OAuth
 - Role-Based Access Control (RBAC)
 - Webhooks
 - Data Migration
 - TypeORM
+- SQL and COQL
 - MCP Server and Tool Integration
 
-### Programming and Data
+### Data Analytics and Processing
 
 - Python
-- JavaScript
-- TypeScript
-- SQL
-- COQL
-- Java (Beginner)
 - Pandas
 - NumPy
 - Streamlit
-
-### Database Management
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Relational Database Concepts
-- SQL Queries
-- Database Design
-- ORM Concepts
-
-### Frontend Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-
-### Automation, Analytics and Cloud
-
-- n8n Workflow Automation
-- Model Context Protocol (MCP)
+- Data Cleaning
+- Data Preprocessing
+- Data Analysis
+- Customer Segmentation
+- Clustering
+- Association Analysis
 - Power BI
-- UiPath
-- Docker
-- Google Cloud Platform (GCP)
-- ngrok
+- Excel
 
-### Development Tools
+### Automation and Development Tools
 
-- Git
-- GitHub
-- GitLab
-- VS Code
-- Postman
-- pgAdmin
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-052e16?style=for-the-badge&logo=docker&logoColor=34d399)
+![Git](https://img.shields.io/badge/Git-052e16?style=for-the-badge&logo=git&logoColor=34d399)
+![GitHub](https://img.shields.io/badge/GitHub-052e16?style=for-the-badge&logo=github&logoColor=34d399)
+![GitLab](https://img.shields.io/badge/GitLab-052e16?style=for-the-badge&logo=gitlab&logoColor=34d399)
+![Postman](https://img.shields.io/badge/Postman-052e16?style=for-the-badge&logo=postman&logoColor=34d399)
+![n8n](https://img.shields.io/badge/n8n-052e16?style=for-the-badge&logo=n8n&logoColor=34d399)
+![UiPath](https://img.shields.io/badge/UiPath-052e16?style=for-the-badge&logo=uipath&logoColor=34d399)
+![GCP](https://img.shields.io/badge/Google_Cloud-052e16?style=for-the-badge&logo=googlecloud&logoColor=34d399)
+
+</div>
 
 ---
 
@@ -209,7 +215,7 @@ Gained practical exposure to data science concepts, data processing, analysis, a
 ### 1. Zoho CRM to HubSpot Migration and MCP Integration
 
 <a href="https://github.com/KamalEsakki/zoho-hubspot-integration">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Zoho HubSpot Project" />
 </a>
 
 A backend integration project focused on migrating CRM data from Zoho CRM to HubSpot using APIs and building an integration foundation for MCP-based interactions.
@@ -233,7 +239,7 @@ A backend integration project focused on migrating CRM data from Zoho CRM to Hub
 ### 2. Stock Sentinel
 
 <a href="https://github.com/marikannan234/stock_sentinal">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View Stock Sentinel Project" />
 </a>
 
 A stock monitoring application built with a backend API and a web-based dashboard to present stock-related information.
@@ -256,7 +262,7 @@ A stock monitoring application built with a backend API and a web-based dashboar
 ### 3. E-commerce Customer Behavior Analysis
 
 <a href="https://github.com/KamalEsakki/Ecommerce-Customer-Behavior-Analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-065f46?style=for-the-badge&logo=github&logoColor=white" alt="View E-commerce Analysis Project" />
 </a>
 
 A data analytics project focused on exploring customer purchasing behavior from e-commerce transaction data.
@@ -283,48 +289,47 @@ A data analytics project focused on exploring customer purchasing behavior from 
 
 ---
 
-## 🏆 Technical Focus and Learning
+## 📚 Currently Learning
 
-- Backend application architecture using NestJS.
-- REST API development and third-party API connectivity.
-- Secure authentication using JWT and OAuth 2.0.
-- CRM data migration and integration workflows.
-- MCP architecture and AI tool integration.
-- Workflow automation using n8n.
-- Data analytics using Python and Power BI.
-- Containerization using Docker.
+- Advanced Backend Development using NestJS.
+- MCP Architecture and Tool Integration.
+- Agentic AI Application Development.
+- CRM Automation and API Integration.
+- Database Design and Optimization.
+- Workflow Automation using n8n.
+- Data Analytics and Power BI Dashboards.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0&ring_color=10b981" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamalEsakki&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=e2e8f0" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&hide_border=true&background=020617&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=34d399&dates=94a3b8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalEsakki&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=34d399&text_color=e2e8f0" alt="Top Programming Languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalEsakki&bg_color=020617&color=34d399&line=10b981&point=ecfdf5&area=true&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=KamalEsakki&theme=dark&hide_border=true&background=020617&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=34d399&dates=94a3b8" alt="GitHub Contribution Streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KamalEsakki&bg_color=020617&color=34d399&line=10b981&point=ecfdf5&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake - Dark Theme" />
+<img width="100%" src="https://raw.githubusercontent.com/KamalEsakki/KamalEsakki/output/github-contribution-grid-snake-dark.svg" alt="Dark GitHub Contribution Snake Animation" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/CONTRIBUTION%20GRAPH-DARK%20MODE-052e16?style=for-the-badge&logo=github&logoColor=34d399" />
+<img src="https://img.shields.io/badge/GITHUB_CONTRIBUTIONS-DARK_MODE-052e16?style=for-the-badge&logo=github&logoColor=34d399" alt="Dark Contribution Theme" />
 
 </div>
 
@@ -335,21 +340,23 @@ A data analytics project focused on exploring customer purchasing behavior from 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kamalesakki">
-<img src="https://img.shields.io/badge/LinkedIn-Kamal%20Esakki-065f46?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Kamal%20Esakki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
 <a href="mailto:kamalesakki11@gmail.com">
-<img src="https://img.shields.io/badge/Email-kamalesakki11%40gmail.com-065f46?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-kamalesakki11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/KamalEsakki">
-<img src="https://img.shields.io/badge/GitHub-KamalEsakki-065f46?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-KamalEsakki-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration, and building meaningful technology.**
+**Building • Learning • Integrating • Improving**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,35:065f46,70:052e16,100:020617&height=140&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,35:065f46,70:052e16,100:020617&height=140&section=footer" alt="Green Footer Animation" />
 
 </div>
