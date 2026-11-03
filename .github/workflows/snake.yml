@@ -1,25 +1,43 @@
-
-name: Generate GitHub Contribution Snake
+name: Generate GitHub Profile Assets
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate_profile_stats.py"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: contribution-snake
+  group: profile-assets
   cancel-in-progress: true
 
 jobs:
   generate:
-    name: Generate Contribution Animations
+    name: Generate Profile Cards and Contribution Snake
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate Profile Statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_profile_stats.py
+
       - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
@@ -31,7 +49,7 @@ jobs:
             dist/github-contribution-grid-snake-dimmed.svg?palette=github-dark-dimmed
             dist/github-contribution-grid-snake-emerald.svg?color_snake=#10b981&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Deploy Snake to Output Branch
+      - name: Deploy Profile Assets
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
